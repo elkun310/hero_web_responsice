@@ -1,1 +1,1 @@
-# hero_web_responsice
+# hero_web_responsive
