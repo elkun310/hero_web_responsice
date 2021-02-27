@@ -153,7 +153,7 @@ header .toggle.active {
 	transform: scale(1.2);
 }
 
-.container .box .imgBx:active:hover img {
+.container .box .imgBx.active:hover img {
 	transform: scale(1);
 }
 
